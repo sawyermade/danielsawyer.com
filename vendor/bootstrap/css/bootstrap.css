@@ -6731,7 +6731,7 @@ a.close.disabled {
   /*background-color: #a9a9a9 !important;*/
   /*background-color: #6c757d !important;*/
   background-color: var(--secondary) !important;
-  color: var(--indigo) !important;
+  color: var(--blue) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
