@@ -10284,3 +10284,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.pdf-viewer {
+  height: 100vh;
+}
